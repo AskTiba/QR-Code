@@ -7,7 +7,7 @@ function App() {
           <img className="p-[13px] rounded-[25px]" src={code} alt="" />
           <div className="flex flex-col justify-center items-center">
             <p
-              className="flex flex-col text-[20px] text-Dark-blue font-bold
+              className="flex flex-col text-[21px] text-Dark-blue font-bold
             justify-center items-center my-[10px] "
             >
               Improve your front-end{" "}
