@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <div className="h-screen w-screen bg-Light-gray flex items-center justify-center">
-        <div className="bg-White rounded-[25px] w-[300px]">
+        <div className="bg-White rounded-[20px] w-[300px]">
           <img className="p-[12px] rounded-[25px]" src={code} alt="" />
           <div className="flex flex-col justify-center items-center">
             <p
