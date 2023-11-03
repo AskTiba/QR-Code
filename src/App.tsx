@@ -4,7 +4,7 @@ function App() {
     <>
       <div className="h-screen w-screen bg-Light-gray flex items-center justify-center">
         <div className="bg-White rounded-[15px] w-[300px]">
-          <img className="p-[10px] rounded-[15px]" src={code} alt="" />
+          <img className="p-[12px] rounded-[25px]" src={code} alt="" />
           <div className="flex flex-col justify-center items-center">
             <p
               className="flex flex-col text-[15px] text-black font-bold
